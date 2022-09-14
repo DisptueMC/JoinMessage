@@ -1,0 +1,18 @@
+#插件作者: CivicXFB
+#变量: {player_name}玩家名称
+#颜色代码: §a
+
+#是否启用玩家加入服务器自定义消息
+MessageToggle: true
+#玩家加入服务器发送什么消息
+JoinMessage: "§7[ §a+ §7] §a欢迎玩家 §6{player_name} §a加入服务器"
+QuickMessage: "§7[ §c- §7] §c玩家 §6{player_name} §c离开了服务器"
+JoinTipMessage: "§7[ §a+ §7] §a欢迎玩家 §6{player_name} §a加入服务器"
+#是否启用玩家加入服务器自定义消息
+MessageInfoToggle: true
+MessageInfo: "§7欢迎玩家{player_name}§7加入xxxx§7服务器"
+#是否开启标题
+TitleToggle: true
+TitleMessage: "§axxxx服务器"
+SubTitleMessage: "§a群号:xxx"
+
